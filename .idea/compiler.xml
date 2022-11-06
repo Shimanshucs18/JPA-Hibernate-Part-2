@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="InheritanceMapping1" />
+        <module name="ComponentMapping" />
+        <module name="InheritanceMapping2" />
+        <module name="JpqlAndNativeQues" />
+        <module name="InheritanceMapping3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ComponentMapping" target="17" />
+      <module name="InheritanceMapping1" target="17" />
+      <module name="InheritanceMapping2" target="17" />
+      <module name="InheritanceMapping3" target="17" />
+      <module name="JpqlAndNativeQues" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ComponentMapping" options="-parameters" />
+      <module name="InheritanceMapping1" options="-parameters" />
+      <module name="InheritanceMapping2" options="-parameters" />
+      <module name="InheritanceMapping3" options="-parameters" />
+      <module name="JpqlAndNativeQues" options="-parameters" />
+    </option>
+  </component>
+</project>

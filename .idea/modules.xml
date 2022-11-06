@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComponentMapping/ComponentMapping.iml" filepath="$PROJECT_DIR$/ComponentMapping/ComponentMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceMapping1/InheritanceMapping1.iml" filepath="$PROJECT_DIR$/InheritanceMapping1/InheritanceMapping1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceMapping2/InheritanceMapping2.iml" filepath="$PROJECT_DIR$/InheritanceMapping2/InheritanceMapping2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceMapping3/InheritanceMapping3.iml" filepath="$PROJECT_DIR$/InheritanceMapping3/InheritanceMapping3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JpaHibernate_2.iml" filepath="$PROJECT_DIR$/.idea/JpaHibernate_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JpqlAndNativeQues/JpqlAndNativeQues.iml" filepath="$PROJECT_DIR$/JpqlAndNativeQues/JpqlAndNativeQues.iml" />
+    </modules>
+  </component>
+</project>
